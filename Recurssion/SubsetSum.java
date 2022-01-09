@@ -1,4 +1,6 @@
-//Initial Template for Java
+// Problem : https://practice.geeksforgeeks.org/problems/subset-sums2234/1
+
+
 import java.io.*;
 import java.util.*;
 
